@@ -1097,15 +1097,8 @@ _Current export: products_2026-07-16.csv | Supplier catalog: updated_products.xl
 - Windshield Washer Fluid RTU:
   + Added WINDSHIELD WASHER FLUID RTU- 30 GAL
 
-## Image Changes
-- Not assessable — the supplier catalog (updated_products.xlsx) contains no image data to compare against the current Shopify export.
-
-## Description Changes
-- Not assessable — the supplier catalog (updated_products.xlsx) contains no description/body text to compare against the current Shopify export.
 
 ## Potential Issues
-- Duplicate MPN in supplier catalog: RA1000-32 assigned to both "CERAMIC BOOST- 32 OZ" and "RADIANCE FABRIC PROTECTANT- 32 OZ"
-- Duplicate MPN in supplier catalog: MN01 assigned to both "MAXSHINE MINI POLISHING SYSTEM" and "MAXSHINE MINI ROTARY POLISHING SYSTEM"
 - Water Spot Remover: variant counts don't map cleanly (1 current vs 7 new) — needs manual size mapping
 - IK HC 1.5: variant counts don't map cleanly (1 current vs 2 new) — needs manual size mapping
 - Radiance Fabric Protectant: variant counts don't map cleanly (1 current vs 4 new) — needs manual size mapping

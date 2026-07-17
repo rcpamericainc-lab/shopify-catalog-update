@@ -4,12 +4,12 @@ Handle,Title,Variant,SKU,Old_Price,New_Price,Change_Amount,Change_Pct,Match_Meth
 reclaim-safe,Reclaim Safe,Default Title,RCP-RCS-01,35.09,26.99,-8.1,-23.1,SKU
 5-gallon-drum-pump,Plastic Pump,Default Title,160145,18.19,13.99,-4.2,-23.1,SKU
 5-gallon-cube-lid,5 GAL Cube Cap/lid,Default Title,CLP10,2.59,1.99,-0.6,-23.2,SKU
-breakthrough,Breakthrough,32 ounces,2400-32,82.99,26.99,-56.0,-67.5,SKU
+breakthrough,Breakthrough,32 ounces,2400-32,82.99,26.99,-56,-67.5,SKU
 fresh-n-clean-wafers,Fresh N' Clean 60 CT BAG,Default Title,AS101,33.79,25.99,-7.8,-23.1,SKU
 pot-brush-horse-hair-9,"Horse Hair Brush, Salt & Pepper",Default Title,85-817,14.29,10.99,-3.3,-23.1,SKU
 medium-cut-maroon-foam-pad,"5""- Maroon Foam Medium Cutting PAD",5 Inch,RCP-5MAF,15.59,11.99,-3.6,-23.1,SKU
 medium-cut-maroon-foam-pad,"5""- Maroon Foam Medium Cutting PAD",6 Inch,RCP-6MAF,16.89,12.99,-3.9,-23.1,SKU
-medium-cut-maroon-foam-pad,"5""- Maroon Foam Medium Cutting PAD",3 Inch,RCP-3MAF,12.99,9.99,-3.0,-23.1,SKU
+medium-cut-maroon-foam-pad,"5""- Maroon Foam Medium Cutting PAD",3 Inch,RCP-3MAF,12.99,9.99,-3,-23.1,SKU
 7-5-white-wool-pad-1-5-pile,"7.5"" WHITE WOOL PAD 1.5"" PILE",Default Title,7503G,23.39,17.99,-5.4,-23.1,SKU
 uro-tec-5-blue-foam-buff-pad,"5""- Uro-tec Blue Heavy CUT Foam PAD",Default Title,554BN,24.69,18.99,-5.7,-23.1,SKU
 nitrile-gloves-black,X-large Viper Nitrile Black 100/box,Extra Large,RCP-GL603,44.19,33.99,-10.2,-23.1,SKU
@@ -19,7 +19,7 @@ nitrile-gloves-black,X-large Viper Nitrile Black 100/box,Medium,RCP-GL601,44.19,
 black-detail-brush,"1.5""- Black Detail Brush",Default Title,HTI-516,6.49,4.99,-1.5,-23.1,SKU
 strawberry-scent-wafers,Strawberry 60 CT BAG,Default Title,AS106,33.79,25.99,-7.8,-23.1,SKU
 round-microfiber-wax-applicator,App: WAX Applicator Microfiber - Round,Default Title,RD-1-MF,2.59,1.99,-0.6,-23.2,SKU
-16-oz-general-pump-oil,16 OZ. General Pump OIL,Default Title,100295,25.99,19.99,-6.0,-23.1,SKU
+16-oz-general-pump-oil,16 OZ. General Pump OIL,Default Title,100295,25.99,19.99,-6,-23.1,SKU
 tornador-black-tool,Tornador Black Tool,Default Title,Z-020,462.79,355.99,-106.8,-23.1,SKU
 8-white-waffle-flat-2-pk,"9""- White Waffle Foam PAD 2/pk",Default Title,899FBW,36.39,27.99,-8.4,-23.1,SKU
 black-paint,Spray Paint - Gloss Black,Default Title,146987,7.79,5.99,-1.8,-23.1,SKU
@@ -42,7 +42,7 @@ maxshine-detailing-clay-bar-3pcs-pack-white,MAXSHINE DETAILING CLAY BAR - 3PCS/P
 rcp-spray-bottles-32-oz,Natural Spray Bottle,Default Title,RCP-101,2.59,1.99,-0.6,-23.2,SKU
 wild-cherry-concentrate,Wild Cherry,8 ounces,381-8,33.79,25.99,-7.8,-23.1,SKU
 plastic-multipurpose-scraper-12-pack,Plastic Multi-purpose Scraper,Default Title,RZ-020,15.59,11.99,-3.6,-23.1,SKU
-white-lightning,White Lightning,32oz,4200-32,45.99,18.99,-27.0,-58.7,SKU
+white-lightning,White Lightning,32oz,4200-32,45.99,18.99,-27,-58.7,SKU
 white-lightning,White Lightning,1 Gallon,4201,48.09,36.99,-11.1,-23.1,SKU
 white-lightning,White Lightning,5 Gallon,4205,124.79,95.99,-28.8,-23.1,SKU
 white-lightning,White Lightning,55 Gallon,4255,1112.79,855.99,-256.8,-23.1,SKU
@@ -62,17 +62,17 @@ nylon-detail-brush,Toothbrush - Plastic,Default Title,85-646,5.19,3.99,-1.2,-23.
 pot-brush-green-flagged-20,"20"" Fender Brush Green",Default Title,85-815,23.39,17.99,-5.4,-23.1,SKU
 dual-end-detail-brush,Dual END Detail Brush,Default Title,85-653,5.19,3.99,-1.2,-23.1,SKU
 steel-wool-12pk,Steel Wool 12pk- Grade #00,Default Title,SWP-0000,9.09,6.99,-2.1,-23.1,SKU
-matte-shampoo,MATTE SHAMPOO,Default Title,MS-3216,14.99,9.99,-5.0,-33.4,SKU
+matte-shampoo,MATTE SHAMPOO,Default Title,MS-3216,14.99,9.99,-5,-33.4,SKU
 quick-change-socket-3-8-male,"QUICK CHANGE SOCKET 3/8"" MALE",Default Title,D10004,10.39,7.99,-2.4,-23.1,SKU
 heavy-cut-blue-microfiber-pad,"3""- Blue Microfiber Heavy Cutting",3 Inch,RCP-3BLMF,15.59,11.99,-3.6,-23.1,SKU
 heavy-cut-blue-microfiber-pad,"3""- Blue Microfiber Heavy Cutting",5 Inch,RCP-5BLMF,18.19,13.99,-4.2,-23.1,SKU
 heavy-cut-blue-microfiber-pad,"3""- Blue Microfiber Heavy Cutting",6 Inch,RCP-6BLMF,20.79,15.99,-4.8,-23.1,SKU
 cool-breeze-wafers,Cool Breeze 60 CT BAG,Default Title,AS127,33.79,25.99,-7.8,-23.1,SKU
 new-car-scent-concentrate,NEW CAR,8 ounces,414-8,33.79,25.99,-7.8,-23.1,SKU
-new-car-scent-concentrate,NEW CAR,1 Gallon,7201,25.99,19.99,-6.0,-23.1,SKU
-react,React Ceramic Soap,16 ounces,RA3400-16,40.99,9.99,-31.0,-75.6,SKU
+new-car-scent-concentrate,NEW CAR,1 Gallon,7201,25.99,19.99,-6,-23.1,SKU
+react,React Ceramic Soap,16 ounces,RA3400-16,40.99,9.99,-31,-75.6,SKU
 bi-level-truck-brush-green-nylon,Bi-level Truck Brush Green Nylon,Default Title,186-N,45.49,34.99,-10.5,-23.1,SKU
-white-finishing-foam-buff-pads,"3""- White Foam Finishing PAD",3 Inch,RCP-3WHF,12.99,9.99,-3.0,-23.1,SKU
+white-finishing-foam-buff-pads,"3""- White Foam Finishing PAD",3 Inch,RCP-3WHF,12.99,9.99,-3,-23.1,SKU
 white-finishing-foam-buff-pads,"3""- White Foam Finishing PAD",6 Inch,RCP-6WHF,16.89,12.99,-3.9,-23.1,SKU
 white-finishing-foam-buff-pads,"3""- White Foam Finishing PAD",5 Inch,RCP-5WHF,15.59,11.99,-3.6,-23.1,SKU
 radiance-non-silicone-instant-shine,Body Shop Safe Radiance RCP,Aerosol,SP938,15.59,11.99,-3.6,-23.1,SKU
@@ -85,29 +85,29 @@ ik-multi-12,IK Multi PRO 12,Default Title,82671,153.39,117.99,-35.4,-23.1,SKU
 pina-colada-concentrate,Pina Colada,8 ounces,415-8,33.79,25.99,-7.8,-23.1,SKU
 white-grip-pad,"6""- White Finish Foam PAD",Default Title,619G,19.49,14.99,-4.5,-23.1,SKU
 ik-foam-pro-2,IK Foam PRO 2L,Default Title,81676,57.19,43.99,-13.2,-23.1,SKU
-repel,Repel,16 ounces,8200-16,31.99,9.99,-22.0,-68.8,SKU
+repel,Repel,16 ounces,8200-16,31.99,9.99,-22,-68.8,SKU
 large-stripped-wax-applicator,Jumbo Stripped Applicator Wp-str2,Default Title,TDA57,2.59,1.99,-0.6,-23.2,SKU
 pot-brush-red-9,RED Upholstery Brush,Default Title,85-669,15.59,11.99,-3.6,-23.1,SKU
 glass-cleaner-aerosol,Glass Cleaner Aerosol,Aerosol,SP750,7.79,5.99,-1.8,-23.1,SKU
-clear-acid,Clear Acid,32oz,2200-32,25.99,12.99,-13.0,-50.0,SKU
+clear-acid,Clear Acid,32oz,2200-32,25.99,12.99,-13,-50,SKU
 clear-acid,Clear Acid,1 Gallon,2201,28.59,21.99,-6.6,-23.1,SKU
-clear-acid,Clear Acid,5 Gallon,2205,77.99,59.99,-18.0,-23.1,SKU
+clear-acid,Clear Acid,5 Gallon,2205,77.99,59.99,-18,-23.1,SKU
 clear-acid,Clear Acid,55 Gallon,2255,397.79,305.99,-91.8,-23.1,SKU
 brass-wire-whitewall-sidewall-tire-brush,BRASS WIRE WHITEWALL/SIDEWALL TIRE BRUSH,Default Title,85-637,14.29,10.99,-3.3,-23.1,SKU
 25-green-30-pressure-washer-tip-14-quick-connect,"Green Pressure Wash TIP 25-degree, Size 30",Default Title,RCP-925030Q,10.39,7.99,-2.4,-23.1,SKU
-4-tire-dressing-brush,"4""- Tire Dressing Brush",Default Title,104125,12.99,9.99,-3.0,-23.1,SKU
+4-tire-dressing-brush,"4""- Tire Dressing Brush",Default Title,104125,12.99,9.99,-3,-23.1,SKU
 pressure-washer-foam-canon,Pressure Washer Foam Cannon,Default Title,RCP-SSF-300,97.49,74.99,-22.5,-23.1,SKU
 9-green-foam-pad-60-ppi,"9""- Green Soft Foam Medium CUT PAD",Default Title,940G,20.79,15.99,-4.8,-23.1,SKU
 1-push-retractable-blade-compact-scraper,"Soft Grip Scraper, Push Button",Default Title,SGS,7.79,5.99,-1.8,-23.1,SKU
-18-classic-y-bar-squeegee,18' Classic Ky-bar Squeegee,Default Title,25-928,64.99,49.99,-15.0,-23.1,SKU
+18-classic-y-bar-squeegee,18' Classic Ky-bar Squeegee,Default Title,25-928,64.99,49.99,-15,-23.1,SKU
 fresh-n-clean-concentrate,Fresh N' Clean,8 ounces,357-8,33.79,25.99,-7.8,-23.1,SKU
 vaccum-pet-hair-removal-tool,Fur-eel PET Hair Tool,Default Title,FUR-EEL,23.39,17.99,-5.4,-23.1,SKU
 respirator-masks,50 PK Dust/paint Mask,Default Title,NBW95,33.79,25.99,-7.8,-23.1,SKU
 oj-the-juice,"OJ ""The Juice""",1 Gallon,4001,50.69,38.99,-11.7,-23.1,SKU
 oj-the-juice,"OJ ""The Juice""",5 Gallon,4005,137.79,105.99,-31.8,-23.1,SKU
-oj-the-juice,"OJ ""The Juice""",55 Gallon,4055,1299.99,999.99,-300.0,-23.1,SKU
+oj-the-juice,"OJ ""The Juice""",55 Gallon,4055,1299.99,999.99,-300,-23.1,SKU
 3-yellow-foam-2pk,"3""- Yellow Polish Foam 2/pk",Default Title,330G,16.89,12.99,-3.9,-23.1,SKU
-pressure-pro-heavy-duty-pressure-washer-1500-psi-110-volt-electric,110 V Electric Pressure Washer 1500 PSI 2.0 GM,Default Title,EE2015G,1988.99,1529.99,-459.0,-23.1,SKU
+pressure-pro-heavy-duty-pressure-washer-1500-psi-110-volt-electric,110 V Electric Pressure Washer 1500 PSI 2.0 GM,Default Title,EE2015G,1988.99,1529.99,-459,-23.1,SKU
 wipeout-odor-eliminator-system,Wipe OUT Odor Eliminator,Default Title,ASDTX,33.79,25.99,-7.8,-23.1,SKU
 hand-soap-dispenser,Magic Hand Soap Dispenser 2.5,2.5 L,DSP1-JS25,23.39,17.99,-5.4,-23.1,SKU
 hand-soap-dispenser,Magic Hand Soap Dispenser 2.5,3.5 L,DSP1-JS35,41.59,31.99,-9.6,-23.1,SKU
@@ -116,14 +116,14 @@ round-terry-blue-wax-applicator,Round Terry Applicators,Default Title,RD-1-TY,2.
 11-terry-cloth-bonnet,"11"" Terry Cloth Bonnet",Default Title,100,9.09,6.99,-2.1,-23.1,SKU
 wool-buffing-pad-cleaning-spur,Spur Cleaning Tool,Default Title,5000,23.39,17.99,-5.4,-23.1,SKU
 car-wash-mitt-spun-gold,Wool Wash Mitt,Default Title,85-310,9.09,6.99,-2.1,-23.1,SKU
-prime-time,Prime Time,16oz,1000-16,31.99,8.99,-23.0,-71.9,SKU
-prime-time,Prime Time,32oz,1000-32,31.99,8.99,-23.0,-71.9,SKU
+prime-time,Prime Time,16oz,1000-16,31.99,8.99,-23,-71.9,SKU
+prime-time,Prime Time,32oz,1000-32,31.99,8.99,-23,-71.9,SKU
 3-backing-plate-with-14mm-threads,"3"" Velcro Backing Plate 14mm Thread",Default Title,314,16.89,12.99,-3.9,-23.1,SKU
 5-gallon-spout,5 GAL Cube Spouts,Default Title,DA27,9.09,6.99,-2.1,-23.1,SKU
 15-x-16-vinyl-crevice-tool,1.5x16' Vinyl Crevice Tool,Default Title,VCT-15,16.89,12.99,-3.9,-23.1,SKU
 uro-tec-dark-blue-heavy-polishing-6,"5""- Uro-tec Blueberry Heavy Polish Foam PAD",Default Title,556BN,24.69,18.99,-5.7,-23.1,SKU
 vacuum-hose-kit,Vacuum Hose KIT,Default Title,M100-P,83.19,63.99,-19.2,-23.1,SKU
-ac-sanitizer-fogger,A/C SANITIZER FOGGER,Aerosol,855,28.99,17.99,-11.0,-37.9,SKU
+ac-sanitizer-fogger,A/C SANITIZER FOGGER,Aerosol,855,28.99,17.99,-11,-37.9,SKU
 7-5-yellow-wool-pad-1-5-pile,"7.5"" YELLOW  WOOL PAD 1.5"" PILE",Default Title,7503GY,24.69,18.99,-5.7,-23.1,SKU
 strawberry-concentrate,Strawberry,Default Title,424-8,33.79,25.99,-7.8,-23.1,SKU
 safety-glasses,AC: Safety Glasses,Default Title,SG-2,14.29,10.99,-3.3,-23.1,SKU
@@ -136,12 +136,12 @@ quick-change-socket-3-8-female,"QUICK CHANGE SOCKET 3/8"" FEMALE",Default Title,
 industrial-garden-hose-nozzle,Water Hose Nozzle/sprayer,Default Title,81-205,23.39,17.99,-5.4,-23.1,SKU
 maxshine-detailing-clay-bar-3pcspack-purple,Clay Purple- Medium,Default Title,2041150P,42.89,32.99,-9.9,-23.1,SKU
 huck-window-towels,Window Towels - Blue/green 10# BAG,Default Title,OR110,72.79,55.99,-16.8,-23.1,SKU
-wash-n-gloss,Wash N Gloss,16 ounces,3100-16,31.99,8.99,-23.0,-71.9,SKU
+wash-n-gloss,Wash N Gloss,16 ounces,3100-16,31.99,8.99,-23,-71.9,SKU
 pot-brush-green-flagged-9,"8.5"" Fender Brush Green",Default Title,85-812,18.19,13.99,-4.2,-23.1,SKU
 6-flex-edge-d-a-grip-backing-plate,"6"" FLEX EDGE D.A.GRIP BACKING PLATE",Default Title,600Y,28.59,21.99,-6.6,-23.1,SKU
 mango-tango-wafers,Mango Tango 60 CT BAG,Default Title,AS119,33.79,25.99,-7.8,-23.1,SKU
-8-black-foam-waffle-recessed,"9""- Black Waffle Foam PAD Single",Default Title,820WG,25.99,19.99,-6.0,-23.1,SKU
-2-gallon-pump-sprayer,2 Gallon Pump Sprayer #190364,Default Title,2G/8L,64.99,49.99,-15.0,-23.1,SKU
+8-black-foam-waffle-recessed,"9""- Black Waffle Foam PAD Single",Default Title,820WG,25.99,19.99,-6,-23.1,SKU
+2-gallon-pump-sprayer,2 Gallon Pump Sprayer #190364,Default Title,2G/8L,64.99,49.99,-15,-23.1,SKU
 6-5-blue-soft-polishing-foam-pad,"6.5"" BLUE SOFT POLISHING FOAM PAD",Default Title,615G,19.49,14.99,-4.5,-23.1,SKU
 heavy-duty-double-thick-paintbrush-style-detail-brush,"1.5""- Yellow Detail Brush",Default Title,HTI-716,6.49,4.99,-1.5,-23.1,SKU
 large-spoke-wheel-brush-16-5,"LARGE SPOKE WHEEL BRUSH 16.5""",Default Title,85-799,19.49,14.99,-4.5,-23.1,SKU
@@ -155,7 +155,7 @@ stainless-steel-detail-toothbrush,Toothbrush - Stainless Steel,Default Title,85-
 3-white-wool-2-pk,"3""- White Wool 2/pk",Default Title,301G,22.09,16.99,-5.1,-23.1,SKU
 white-nylon-brush,White Nylon Brush,Default Title,85-639,10.39,7.99,-2.4,-23.1,SKU
 sapphire-ice-concentrate,Sapphire ICE,Default Title,458-8,33.79,25.99,-7.8,-23.1,SKU
-8-white-foam-waffle-recessed,"9""- White Waffle Foam CUT PAD Single",Default Title,899WG,25.99,19.99,-6.0,-23.1,SKU
+8-white-foam-waffle-recessed,"9""- White Waffle Foam CUT PAD Single",Default Title,899WG,25.99,19.99,-6,-23.1,SKU
 small-vent-brush,Small Vent Brush,Default Title,85-651,5.19,3.99,-1.2,-23.1,SKU
 baby-powder-concentrate,Baby Powder,8 ounces,442-8,33.79,25.99,-7.8,-23.1,SKU
 bug-net-sponge-4-x-7,"Mesh BUG Sponge- 4"" X 7""",Default Title,2X,3.89,2.99,-0.9,-23.1,SKU
@@ -171,7 +171,7 @@ direct-drill-mount-5-scrub-brush,"5""- Drill Mount Rotary Brush",Default Title,S
 microfiber-towels-36pk,Blue Microfiber Towels 36 PK,BLUE,RCP-20277B,50.69,38.99,-11.7,-23.1,SKU
 red-detailing-clay-bar-medium,Clay Red- Medium,Default Title,CM1200,53.29,40.99,-12.3,-23.1,SKU
 10-x-3-bug-removal-brush,"BUG Block Brush- 3"" X 10""",Default Title,TB-1261,23.39,17.99,-5.4,-23.1,SKU
-fast-wax,Fast WAX,1 Gallon,61,23.99,47.99,24.0,100.0,SKU
+fast-wax,Fast WAX,1 Gallon,61,23.99,47.99,24,100,SKU
 quick-change-socket-1-4-female,"QUICK CHANGE SOCKET 1/4"" FEMALE",Default Title,D10001,10.39,7.99,-2.4,-23.1,SKU
 truck-wash-pole-5,5'- Truck Wash Pole,Default Title,MTH-1W,14.29,10.99,-3.3,-23.1,SKU
 alcohol,Alcohol,1 Gallon,Alcohol-1G,33.79,25.99,-7.8,-23.1,SKU
@@ -188,17 +188,17 @@ pot-brush-blue-stiff-bristle-9,"8.5''- POT Brush Blue, Stiff Bristle",Default Ti
 car-wash-mop-bonnet,Wash MOP Bonnet,Default Title,MHB1,18.19,13.99,-4.2,-23.1,SKU
 air-spray-gun,Spray GUN,Default Title,AES-507,80.59,61.99,-18.6,-23.1,SKU
 carpet-spotter,Carpet Spotter RCP,Aerosol,SP676,11.69,8.99,-2.7,-23.1,SKU
-cutting-blue-wool-pads,"6""- Blue Wool Cutting PAD",6 Inch,RCP-6BLWOOL,25.99,19.99,-6.0,-23.1,SKU
+cutting-blue-wool-pads,"6""- Blue Wool Cutting PAD",6 Inch,RCP-6BLWOOL,25.99,19.99,-6,-23.1,SKU
 cutting-blue-wool-pads,"6""- Blue Wool Cutting PAD",3 Inch,RCP-3BLWOOL,16.89,12.99,-3.9,-23.1,SKU
 cutting-blue-wool-pads,"6""- Blue Wool Cutting PAD",5 Inch,RCP-5BLWOOL,22.09,16.99,-5.1,-23.1,SKU
-blizzard,Blizzard,1 Gallon,4301,51.99,39.99,-12.0,-23.1,SKU
+blizzard,Blizzard,1 Gallon,4301,51.99,39.99,-12,-23.1,SKU
 wash-bucket-dirt-grate,Bucket Grate,Default Title,RCP-RDS-1,18.19,13.99,-4.2,-23.1,SKU
 cool-breeze-concentrate,Cool Breeze,8 ounces,461-8,33.79,25.99,-7.8,-23.1,SKU
-sprayer,SPRAYER,ORANGE,110502,3.99,2.99,-1.0,-25.1,SKU
+sprayer,SPRAYER,ORANGE,110502,3.99,2.99,-1,-25.1,SKU
 ik-multi-pro-2-360º,IK Multi PRO 2L,Default Title,81671,53.29,40.99,-12.3,-23.1,SKU
 9-yellow-foam-pad-50-ppi,"9""- Yellow Soft Foam Cutting PAD",Default Title,930G,20.79,15.99,-4.8,-23.1,SKU
-ik-multi-tr-1-360,IK Multi TR 1-360,Default Title,84177,22.09,17.9,-4.19,-19.0,SKU
-5-5-white-grip-pad,"5.5"" WHITE GRIP PAD",Default Title,591G,12.99,9.99,-3.0,-23.1,SKU
+ik-multi-tr-1-360,IK Multi TR 1-360,Default Title,84177,22.09,17.9,-4.19,-19,SKU
+5-5-white-grip-pad,"5.5"" WHITE GRIP PAD",Default Title,591G,12.99,9.99,-3,-23.1,SKU
 6-5-yellow-med-cutting-foam-pad,"6.5"" YELLOW MED CUTTING FOAM PAD",Default Title,613G,19.49,14.99,-4.5,-23.1,SKU
 car-wash-mop-head,Wash MOP Head,Default Title,MH1,24.69,18.99,-5.7,-23.1,SKU
 uro-tec-5-red-foam-buff-pad,"5""- Uro-tec Burgundy MED CUT Foam PAD",Default Title,572BN,24.69,18.99,-5.7,-23.1,SKU
@@ -208,7 +208,7 @@ capret-upholstery-5-wood-block-rotary-buffer-scrub-brush,"5""- Rotary Hi-speed C
 vanilla-twist-concentrate,Vanilla Twist,Default Title,387-8,33.79,25.99,-7.8,-23.1,SKU
 quick-change-plug-1-4-female,"QUICK CHANGE PLUG 1/4"" FEMALE",Default Title,D10006,10.39,7.99,-2.4,-23.1,SKU
 sapphire-ice-scent-wafers,Sapphire ICE 60 CT BAG,Default Title,AS126,33.79,25.99,-7.8,-23.1,SKU
-degreaser,DEGREASER,1 Gallon,DEGREASER-01,27.99,19.99,-8.0,-28.6,SKU
+degreaser,DEGREASER,1 Gallon,DEGREASER-01,27.99,19.99,-8,-28.6,SKU
 bi-level-truck-brush-blue-nylon,Bi-level Truck Brush Blue Nylon,Default Title,186-B,45.49,34.99,-10.5,-23.1,SKU
 truck-wash-pole-extendable-4-8,Extendable Pole 4-8 FT,Default Title,85-678,96.19,73.99,-22.2,-23.1,SKU
 california-orange-concentrate,California Orange,8 ounces,417-8,33.79,25.99,-7.8,-23.1,SKU
@@ -228,9 +228,9 @@ radiance,Radiance Aerosol,Aerosol,SP936,11.69,8.99,-2.7,-23.1,SKU
 11-microfiber-bonnet,"11"" Microfiber Bonnet",Default Title,100M,9.09,6.99,-2.1,-23.1,SKU
 9-blue-foam-pad-70-ppi,"9""- Blue Soft Foam Polishing PAD",Default Title,950G,20.79,15.99,-4.8,-23.1,SKU
 tire-dressing-applicator-crescent,Tire Dressing Applicator - Large Crescent,Default Title,TDA3,6.49,4.99,-1.5,-23.1,SKU
-kopperhead,Kopperhead,32oz,2100-32,20.99,12.99,-8.0,-38.1,SKU
-kopperhead,Kopperhead,1 Gallon,2101,25.99,19.99,-6.0,-23.1,SKU
-kopperhead,Kopperhead,5 Gallon,2105,77.99,59.99,-18.0,-23.1,SKU
+kopperhead,Kopperhead,32oz,2100-32,20.99,12.99,-8,-38.1,SKU
+kopperhead,Kopperhead,1 Gallon,2101,25.99,19.99,-6,-23.1,SKU
+kopperhead,Kopperhead,5 Gallon,2105,77.99,59.99,-18,-23.1,SKU
 kopperhead,Kopperhead,55 Gallon,2155,440.69,338.99,-101.7,-23.1,SKU
 interior-detailer,Interior Detailer Aerosol,Aerosol,SP780,11.69,8.99,-2.7,-23.1,SKU
 3black-foam-2pk,"3""-black Finish Foam PAD 2/pk",Default Title,320G,16.89,12.99,-3.9,-23.1,SKU
@@ -239,31 +239,31 @@ truck-brush-10-green-nylon,"10""- Truck Brush Green",Default Title,3033,36.39,27
 heavy-duty-floor-mat-wall-clamp,MAT Hanger Clamps,Default Title,MC-5,31.19,23.99,-7.2,-23.1,SKU
 one-step-dark-blue-foam-pad,"6""- Dark Blue Foam ONE Step PAD",6 Inch,RCP-6BLF,16.89,12.99,-3.9,-23.1,SKU
 one-step-dark-blue-foam-pad,"6""- Dark Blue Foam ONE Step PAD",5 Inch,RCP-5BLF,15.59,11.99,-3.6,-23.1,SKU
-one-step-dark-blue-foam-pad,"6""- Dark Blue Foam ONE Step PAD",3 Inch,RCP-3BLF,12.99,9.99,-3.0,-23.1,SKU
+one-step-dark-blue-foam-pad,"6""- Dark Blue Foam ONE Step PAD",3 Inch,RCP-3BLF,12.99,9.99,-3,-23.1,SKU
 single-edge-9-razor-blades-1oopack,Razor Blades Hi-tec #9,Default Title,1009,18.19,13.99,-4.2,-23.1,SKU
 red-detail-brush,"1.5""- RED Detail Brush Short Bristle",Default Title,HTI-616,6.49,4.99,-1.5,-23.1,SKU
-deck-wash,Deck Wash,1 Gallon,DECKWASH-01,29.99,20.99,-9.0,-30.0,SKU
-deck-wash,Deck Wash,5 Gallons,DECKWASH-05,29.99,66.99,37.0,123.4,SKU
+deck-wash,Deck Wash,1 Gallon,DECKWASH-01,29.99,20.99,-9,-30,SKU
+deck-wash,Deck Wash,5 Gallons,DECKWASH-05,29.99,66.99,37,123.4,SKU
 citrus-punch,Citrus Punch,1 Gallon,1801,36.39,27.99,-8.4,-23.1,SKU
 citrus-punch,Citrus Punch,5 Gallon,1805,105.29,80.99,-24.3,-23.1,SKU
 quick-change-socket-1-4-male,"QUICK CHANGE SOCKET 1/4"" MALE",Default Title,D10002,10.39,7.99,-2.4,-23.1,SKU
 5-5-micro-fibre-cutting-pad,"5.5"" MICRO FIBRE CUTTING PAD",Default Title,580MFP,20.79,15.99,-4.8,-23.1,SKU
 magna-rock-pet-hair-lint-remover,PET Hair Rock,Default Title,PH-ROCK-1,15.59,11.99,-3.6,-23.1,SKU
 alcohol-5-gallon,Alcohol 5 Gallon,Default Title,,67.83,119.99,52.16,76.9,Title/Size (no SKU)
-house-wash,House Wash,1 Gallon,,27.99,19.99,-8.0,-28.6,Title/Size (no SKU)
-house-wash,House Wash,5 Gallons,,27.99,64.99,37.0,132.2,Title/Size (no SKU)
+house-wash,House Wash,1 Gallon,,27.99,19.99,-8,-28.6,Title/Size (no SKU)
+house-wash,House Wash,5 Gallons,,27.99,64.99,37,132.2,Title/Size (no SKU)
 5-maxshine-pro-series-dual-action-backing-plate,"Maxshine 5"" Backing Plate",Default Title,RCP-3011125,27.29,20.99,-6.3,-23.1,Title/Size (no SKU)
-premier-shine,Premier Shine,1 Gallon,4201-PS,46.99,39.99,-7.0,-14.9,Title/Size (no SKU)
-premier-shine,Premier Shine,5 Gallons,4205-PS,46.99,102.99,56.0,119.2,Title/Size (no SKU)
-premier-shine,Premier Shine,16 Ounce,,46.99,11.99,-35.0,-74.5,Title/Size (no SKU)
-koc-86-multi-surface-guard,Koc-86 Guard,55 Gallon,,96.99,1322.99,1226.0,1264.0,Title/Size (no SKU)
-koc-86-multi-surface-guard,Koc-86 Guard,1 Gallon,KOC-861A,96.99,64.99,-32.0,-33.0,Title/Size (no SKU)
-koc-86-multi-surface-guard,Koc-86 Guard,5 Gallon,KOC-865A,96.99,249.99,153.0,157.7,Title/Size (no SKU)
-bumper-coat,Bumper Coat,1 Gallon,,52.99,99.99,47.0,88.7,Title/Size (no SKU)
-bumper-coat,Bumper Coat,32 ounces,4532,52.99,32.99,-20.0,-37.7,Title/Size (no SKU)
-texas-super-blue,Texas Super Blue,1 Gallon,,47.99,38.99,-9.0,-18.8,Title/Size (no SKU)
-texas-super-blue,Texas Super Blue,32oz,,47.99,19.99,-28.0,-58.3,Title/Size (no SKU)
-texas-super-blue,Texas Super Blue,5 Gallons,,47.99,105.99,58.0,120.9,Title/Size (no SKU)
-texas-super-blue,Texas Super Blue,16oz,,16.99,12.99,-4.0,-23.5,Title/Size (no SKU)
-truck-wash,Truck Wash,1 Gallon,,29.99,19.99,-10.0,-33.3,Title/Size (no SKU)
-truck-wash,Truck Wash,5 Gallons,,29.99,64.99,35.0,116.7,Title/Size (no SKU)
+premier-shine,Premier Shine,1 Gallon,4201-PS,46.99,39.99,-7,-14.9,Title/Size (no SKU)
+premier-shine,Premier Shine,5 Gallons,4205-PS,46.99,102.99,56,119.2,Title/Size (no SKU)
+premier-shine,Premier Shine,16 Ounce,,46.99,11.99,-35,-74.5,Title/Size (no SKU)
+koc-86-multi-surface-guard,Koc-86 Guard,55 Gallon,,96.99,1322.99,1226,1264,Title/Size (no SKU)
+koc-86-multi-surface-guard,Koc-86 Guard,1 Gallon,KOC-861A,96.99,64.99,-32,-33,Title/Size (no SKU)
+koc-86-multi-surface-guard,Koc-86 Guard,5 Gallon,KOC-865A,96.99,249.99,153,157.7,Title/Size (no SKU)
+bumper-coat,Bumper Coat,1 Gallon,,52.99,99.99,47,88.7,Title/Size (no SKU)
+bumper-coat,Bumper Coat,32 ounces,4532,52.99,32.99,-20,-37.7,Title/Size (no SKU)
+texas-super-blue,Texas Super Blue,1 Gallon,,47.99,38.99,-9,-18.8,Title/Size (no SKU)
+texas-super-blue,Texas Super Blue,32oz,,47.99,19.99,-28,-58.3,Title/Size (no SKU)
+texas-super-blue,Texas Super Blue,5 Gallons,,47.99,105.99,58,120.9,Title/Size (no SKU)
+texas-super-blue,Texas Super Blue,16oz,,16.99,12.99,-4,-23.5,Title/Size (no SKU)
+truck-wash,Truck Wash,1 Gallon,,29.99,19.99,-10,-33.3,Title/Size (no SKU)
+truck-wash,Truck Wash,5 Gallons,,29.99,64.99,35,116.7,Title/Size (no SKU)
